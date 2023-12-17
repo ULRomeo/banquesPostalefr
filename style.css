@@ -1,0 +1,12 @@
+.connexion{
+    height: 96.5vh;
+    background-color: #1847A1;
+}
+
+main{
+    height: 50vh; 
+    background: linear-gradient(to bottom, #3673B0 10%, #9CB9DB 35%,#FFFFFF 65%);
+}
+a{
+    text-decoration: none;
+}
